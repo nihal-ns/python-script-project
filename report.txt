@@ -1,0 +1,18 @@
+Student Performance Report
+==============================
+Total Students: 4
+Overall Class Average: 82.50
+
+Subject wise analysis:
+Math: Avg: 81.25, High: 92, Low: 70
+Physics: Avg: 82.00, High: 90, Low: 68
+Chemistry: Avg: 82.50, High: 95, Low: 72
+Biology: Avg: 84.25, High: 92, Low: 75
+
+Top 3 Students:
+1. Carol White (91.25)
+2. Alice Johnson (88.75)
+3. Bob Smith (78.75)
+
+Students scoring more than 90 in any subject:
+Alice Johnson, Carol White
